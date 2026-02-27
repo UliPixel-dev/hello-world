@@ -1,0 +1,22 @@
+div{
+
+    background-color: rgb(112, 192, 169);
+    margin-top: 20px;
+    padding: 100px;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-radius: 2px;
+
+}
+h1{
+    margin-top: 10px;
+    text-align: center;
+    text-decoration-style: dashed;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+p{
+
+    
+    text-align: center;
+}
